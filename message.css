@@ -1,0 +1,37 @@
+.subhed {
+  text-align: center;
+}
+.pm {
+  margin: 50px 0px;
+}
+.icon img{
+    border-radius: 30px;
+}
+
+
+/* contact */
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.maincontact{
+    width: 90%;
+    height: 80vh;
+    border-radius: 30px;
+    background-color: #d3ededfb;
+    margin: 70px 0px;
+   margin-bottom:100px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    -webkit-box-shadow: 2px 7px 27px -13px rgba(136,232,218,1);
+    -moz-box-shadow: 2px 7px 27px -13px rgba(136,232,218,1);
+    box-shadow: 2px 7px 27px -13px rgba(136,232,218,1);
+}
+.first{
+    margin: 0px 40px;
+}
+.first img{
+    border-radius: 10px;
+}

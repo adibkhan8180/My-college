@@ -1,0 +1,80 @@
+.dep {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading1 {
+  margin: 20px;
+  text-align: center;
+  height: 90px;
+  width: 300px;
+  border-radius: 7px;
+  background-color: #ace3e268;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+.bottom{
+  margin-top: 80px ;
+}
+.bottomcontanier1{
+  display: flex;
+  justify-content: center;
+ align-items: center;
+ margin-bottom: 80px;
+}
+.card1{
+  height: 140vh;
+  width: 80%;
+  background-color: #d3ededfb;
+  border-radius: 20px;
+  -webkit-box-shadow: 2px 7px 27px -13px rgba(136,232,218,1);
+-moz-box-shadow: 2px 7px 27px -13px rgba(136,232,218,1);
+box-shadow: 2px 7px 27px -13px rgba(136,232,218,1);
+}
+
+.iconmain{
+  display: flex;
+  justify-content: center;
+}
+.icon{
+  height: 100px;
+  width: 100px;
+  background-color:#1c8a88 ;
+  border-radius: 50%;
+  display:inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: white;
+  position: relative;
+  top: -3rem;
+}
+.imgd1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px;
+}
+ .imgd2{
+
+  margin: 20px 0px;
+}
+.bottomcontanier1 h2{
+  text-align: center;
+}
+.inform{
+  margin:  0px  40px;
+}
+ .line1{
+  text-align: center;
+  font-style: italic;
+}
+.end{
+  text-align: right;
+  font-size: 17px;
+}
+
+
+
